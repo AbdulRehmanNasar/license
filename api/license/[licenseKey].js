@@ -3,7 +3,7 @@ export default function handler(req, res) {
 
   const licenses = {
     "JMW-001": {
-      active: true,
+      active: false,
       expiryDate: "2026-08-01"
     }
   };
