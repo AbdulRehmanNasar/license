@@ -8,6 +8,7 @@ export default function handler(req, res) {
     }
   };
 
+  
   const license = licenses[licenseKey];
 
   if (!license) {
